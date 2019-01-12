@@ -5,7 +5,8 @@ pipeline {
       steps {
         sh 'gradle build'
         sh 'gradle javadoc'
-        sh 'gradle uploadArchives'
+        sh 'gradle jar'
+        sh 'archiveArtifacts \'build/libs/*.jar\''
       }
     }
     stage('Code Analysis') {
@@ -29,7 +30,7 @@ pipeline {
     }
     stage('Slack Notification') {
       steps {
-        slackSend(attachments: 'Jenkins test', channel: 'tp')
+        slackSend(message: 'Testing Jenkins')
       }
     }
   }
