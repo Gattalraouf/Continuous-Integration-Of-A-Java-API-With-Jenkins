@@ -13,5 +13,11 @@ pipeline {
         mail(subject: 'Jinkens Test', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
       }
     }
+    stage('Code Analysis') {
+      steps {
+        sh 'sonar-scanner'
+        waitForQualityGate true
+      }
+    }
   }
 }
