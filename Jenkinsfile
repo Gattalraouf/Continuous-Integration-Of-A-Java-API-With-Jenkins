@@ -7,7 +7,7 @@ pipeline {
         sh 'gradle javadoc'
         sh 'gradle jar'
         archiveArtifacts 'build/libs/*.jar'
-        archiveArtifacts 'build/docs/javadoc'
+        archiveArtifacts 'build/docs/javadoc/'
       }
     }
     stage('Code Analysis') {
