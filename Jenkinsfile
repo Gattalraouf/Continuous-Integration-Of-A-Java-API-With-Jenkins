@@ -12,7 +12,7 @@ pipeline {
     }
     stage('Mail Notification') {
       steps {
-        echo 'testing Mail Notif'
+         echo 'testing Mail Notif'
       }
     }
     post {
