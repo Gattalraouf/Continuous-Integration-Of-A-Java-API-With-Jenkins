@@ -14,7 +14,7 @@ pipeline {
       parallel {
         stage('Code Analysis') {
           steps {
-            withSonarQubeEnv('SonarQube') {
+            withSonarQubeEnv('/home/asta/Servers/sonarqube-7.5/bin/linux-x86-64/sonar.sh') {
               sh '/home/asta/Servers/sonar-scanner-cli-3.3.0.1492-linux/sonar-scanner-3.3.0.1492-linux/bin/sonar-scanner '
               waitForQualityGate true
             }
