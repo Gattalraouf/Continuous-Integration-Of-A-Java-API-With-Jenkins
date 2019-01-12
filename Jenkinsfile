@@ -4,8 +4,8 @@ pipeline {
     stage('Build') {
       steps {
         sh 'gradle build'
-        sh 'gradle test'
-        sh 'gradle uploadArchives'
+        sh 'gradle jar'
+        sh 'gradle javadoc'
       }
     }
   }
