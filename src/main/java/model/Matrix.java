@@ -1,4 +1,4 @@
-package com.example.model;
+package model;
 
 public class Matrix {
 
