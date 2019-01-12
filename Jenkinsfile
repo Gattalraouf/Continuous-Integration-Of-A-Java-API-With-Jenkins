@@ -12,8 +12,16 @@ pipeline {
     }
     stage('Mail Notification') {
       steps {
-        mail(subject: 'Jinkens Test', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
+          echo "testing Mail Notif"       
       }
+    }
+    post {
+          failure {
+              mail(subject: 'Jinkens Test Failed', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
+          }
+          success {
+            mail(subject: 'Jinkens Test Successful', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
+          }
     }
     stage('Code Analysis') {
       parallel {
@@ -46,15 +54,4 @@ pipeline {
       }
     }
   }
-  post {
-          always {
-              mail(subject: 'Jinkens Test', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
-          }
-          failure {
-              mail(subject: 'Jinkens Test Failed', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
-          }
-          success {
-            mail(subject: 'Jinkens Test Successful', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
-          }
-      }
 }
