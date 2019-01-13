@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef097efe-7af6-4aa9-8c9a-425e6154a7c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/exception/NoSquareException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exception/NoSquareException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/service/MatrixMathematics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/MatrixMathematics.java" afterDir="false" />
-    </list>
+    <list default="true" id="ef097efe-7af6-4aa9-8c9a-425e6154a7c8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -23,54 +16,12 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1758027220">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.41" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.45" value="1" />
-          <entry key="project.open.time.47" value="1" />
-          <entry key="project.open.time.66" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="gitignore" value="1" />
-          <entry key="gradle" value="2" />
-          <entry key="java" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="Git file" value="1" />
-          <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="gradle" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Groovy" value="8" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
+            <state relative-caret-position="374">
               <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
@@ -79,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/model/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -88,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/service/MatrixMathematics.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="313">
+              <caret line="88" column="49" lean-forward="true" selection-start-line="88" selection-start-column="49" selection-end-line="88" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,7 +51,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/exception/NoSquareException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
+            <state relative-caret-position="34">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
@@ -109,7 +60,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="306">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
@@ -125,347 +76,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="myGradleHomes">
-      <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1" />
-      </map>
-    </option>
-    <option name="myGradleVersions">
-      <map>
-        <entry key="$PROJECT_DIR$" value="5.1.1" />
-      </map>
-    </option>
-    <option name="availableProjects">
-      <map>
-        <entry>
-          <key>
-            <ExternalProjectPojo>
-              <option name="name" value="Jenkins1" />
-              <option name="path" value="$PROJECT_DIR$" />
-            </ExternalProjectPojo>
-          </key>
-          <value>
-            <list>
-              <ExternalProjectPojo>
-                <option name="name" value="Jenkins1" />
-                <option name="path" value="$PROJECT_DIR$" />
-              </ExternalProjectPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="availableTasks">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <list>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'Jenkins1'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="components" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildDependents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="classes" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'Jenkins1'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependentComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="wrapper" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Verifies code coverage metrics based on specified rules for the test task." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jacocoTestCoverageVerification" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles test classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="testClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the main source code." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="javadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the main classes." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jar" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'Jenkins1'. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes main resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs the unit tests." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="test" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles main Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencyInsight" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs all checks." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="check" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates code coverage report for the test task." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jacocoTestReport" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the outputs of this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="assemble" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Compiles test Java source." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="compileTestJava" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencies" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Processes test resources." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="processTestResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles a jar archive containing the Javadoc files for this app." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="jarAppJavadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Javadoc API documentation for the app." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="appJavadoc" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="build" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles and tests this project and all projects it depends on." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="buildNeeded" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Publishes all publications produced by this project." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="publish" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Publishes all Maven publications produced by this project to the local Maven cache." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="publishToMavenLocal" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uploads all artifacts belonging to configuration ':archives'" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="uploadArchives" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'Jenkins1'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="properties" />
-              </ExternalTaskPojo>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="4641925356000" />
-        <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="1503304759" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="2446787327" />
-      </map>
-    </option>
-    <option name="projectBuildClasspath">
-      <map>
-        <entry key="$PROJECT_DIR$">
-          <value>
-            <ExternalProjectBuildClasspathPojo>
-              <option name="modulesBuildClasspath">
-                <map>
-                  <entry key="$PROJECT_DIR$">
-                    <value>
-                      <ExternalModuleBuildClasspathPojo>
-                        <option name="entries">
-                          <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.com.liferay/gradle-plugins-app-javadoc-builder/1.2.2/7888e9444c6e805ac9a771694cf02dc470786316/gradle-plugins-app-javadoc-builder-1.2.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.gradle.util/1.0.33/2598852a75e245adbe5ef4d80cec77d156b108d/com.liferay.gradle.util-1.0.33-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.com.liferay/gradle-plugins-app-javadoc-builder/1.2.2/1d7ac4c3a6548aed12a9000e34aaa5ab579ff620/gradle-plugins-app-javadoc-builder-1.2.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.liferay/com.liferay.gradle.util/1.0.33/16eada676586cf7f73e95b5b6e61c94f82da1b5a/com.liferay.gradle.util-1.0.33.jar" />
-                          </list>
-                        </option>
-                        <option name="path" value="$PROJECT_DIR$" />
-                      </ExternalModuleBuildClasspathPojo>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="name" value="Jenkins1" />
-              <option name="projectBuildClasspath">
-                <list>
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-api-metadata-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-runtime-api-info-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/ant-1.9.13.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-execution-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-docs-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-model-groovy-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-launcher-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/ant-launcher-1.9.13.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-jvm-services-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-build-cache-packaging-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-kotlin-dsl-provider-plugins-1.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-kotlin-dsl-1.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-core-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-process-services-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-tooling-api-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-base-services-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-kotlin-dsl-tooling-builders-1.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-base-services-groovy-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-resources-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-core-api-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-messaging-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-installation-beacon-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-kotlin-dsl-tooling-models-1.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-wrapper-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-build-option-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-build-cache-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-cli-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-files-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-persistent-cache-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-model-core-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-logging-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/gradle-snapshots-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-build-comparison-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-composite-builds-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-ivy-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-resources-http-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-antlr-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-language-scala-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-platform-base-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-testing-jvm-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-resources-s3-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-osgi-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-announce-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-ide-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-build-profile-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-resources-gcs-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-build-cache-http-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-language-groovy-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-maven-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/ivy-2.3.0.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-platform-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-tooling-api-builders-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-language-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-version-control-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-signing-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-build-init-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-plugin-use-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-tooling-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-ide-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-reporting-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-ide-play-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-plugins-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-testing-base-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-platform-jvm-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-workers-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-testing-native-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-plugin-development-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-diagnostics-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-test-kit-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-code-quality-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-language-java-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-resources-sftp-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-scala-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-testing-junit-platform-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-javascript-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-publish-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-language-jvm-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-jacoco-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-ear-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-dependency-management-5.1.1.jar" />
-                  <option value="$USER_HOME$/.sdkman/candidates/gradle/5.1.1/lib/plugins/gradle-platform-play-5.1.1.jar" />
-                </list>
-              </option>
-            </ExternalProjectBuildClasspathPojo>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -476,12 +86,6 @@
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="69" />
@@ -496,40 +100,14 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Jenkins1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TPOUTILS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jenkins1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TPOUTILS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jenkins1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TPOUTILS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jenkins1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TPOUTILS" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547319832110" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/matrix_project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
@@ -566,6 +144,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <configuration name="TPOUTILS [uploadArchives]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -584,6 +163,7 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
     <list>
@@ -613,6 +193,7 @@
       <workItem from="1547311025575" duration="985000" />
       <workItem from="1547312121845" duration="396000" />
       <workItem from="1547313002791" duration="4310000" />
+      <workItem from="1547383778161" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/Gattalraouf/ContinuousIntegrationOfAJavaAPIWithJenkins">
       <created>1547303416708</created>
@@ -649,18 +230,20 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13309000" />
+    <option name="totallyTimeSpent" value="13372000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="27" width="1307" height="741" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2733068" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27760968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32943144" />
@@ -670,10 +253,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19732441" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.19607843" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.32943144" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.32843137" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -689,9 +273,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'master' of https://github.com/Gattalraouf/ContinuousIntegrationOfAJavaAPIWithJenkins" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/Gattalraouf/ContinuousIntegrationOfAJavaAPIWithJenkins" />
@@ -700,28 +281,28 @@
     <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/reflect/Method.class" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
+        <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/model/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/exception/NoSquareException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
+        <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
@@ -731,8 +312,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/service/MatrixMathematics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="313">
+          <caret line="88" column="49" lean-forward="true" selection-start-line="88" selection-start-column="49" selection-end-line="88" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -85,7 +85,7 @@ public class MatrixMathematics {
 		
 		return mat;
 	}
-	**
+	/**
 	 * Transpose of a matrix - Swap the columns with rows
 	 * @param matrix
 	 * @return
