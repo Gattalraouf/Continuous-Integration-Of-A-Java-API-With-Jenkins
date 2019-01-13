@@ -11,14 +11,14 @@ pipeline {
       }
       post {
         failure {
-          mail(subject: 'Jinkens Test Failed', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
+          mail(subject: 'Jinkens Test Failed', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fm_boutemine@esi.dz')
         }
       }
     }
 
     stage('Mail Notification') {
       steps {
-         mail(subject: 'Jinkens Test Successful', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fa_boutemine@esi.dz')
+         mail(subject: 'Jinkens Test Successful', body: 'Mail Notification of the  Integration JAVA API with Jenkins', bcc: 'fa_gattal@esi.dz ', cc: 'fm_boutemine@esi.dz')
       }
     }
     
